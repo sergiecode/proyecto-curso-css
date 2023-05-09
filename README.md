@@ -6,7 +6,7 @@
 
 Podés ver el curso completo en el siguiente video: [CSS desde cero | Curso tutorial completo gratis por Sergie Code](https://youtu.be/rTtC6Q-71qg)
 
-![enter image description here](https://raw.githubusercontent.com/sergiecode/proyecto-curso-css/master/assets/img/z4x.png)
+![Captura de pantalla del primer proyecto de CSS del Curso de Sergie Code](https://raw.githubusercontent.com/sergiecode/proyecto-curso-css/master/assets/img/z4x.png)
 
 Este es el repositorio de la página web que trae la increíble historia de Z4X un robot misionero, historia que nos sirvió de excusa para poner en prática algunas técnicas básicas de CSS basandonos en una web sencilla hecha con HTML en el curso anterior del canal.
 
